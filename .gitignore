@@ -1,0 +1,12 @@
+*
+
+!DinamicIndication/DinamicIndication/src/main.c
+!DinamicIndication\Proteus\scheme*
+
+!TimerOn7Seg\TimerOn7Seg\src\main.c
+!TimerOn7Seg\Proteus\scheme*
+
+!ADCC\ADCC\src\main.c
+!ADCC\Proteus\scheme*
+
+!.gitignore
